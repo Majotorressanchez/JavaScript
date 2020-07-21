@@ -1,0 +1,27 @@
+.bot1{
+    color:white;
+    padding: 15px;
+    background-color: #2196F3;
+    border-radius: 10px;
+    
+    
+}
+.bot1:hover{
+    background-color: white;
+    color: #2196F3;
+}
+.bot2{
+    color:white;
+    padding: 15px;
+    background-color: #2196F3;
+    border-radius: 10px;
+    
+    
+}
+.bot2:hover{
+    background-color: white;
+    color: #2196F3;
+}
+.opaco{
+    opacity: 0.6;
+}
